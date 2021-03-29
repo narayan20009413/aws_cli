@@ -28,3 +28,6 @@ aws ec2 create-volume --size 1 --availability-zone <availability_zone> --tag-spe
 aws ec2  attach-volume  --device /dev/sdf --volume-id <ebs_volume_id> --instance-id <instance_id>
 
 
+For detail explaination yuo can see my blog: https://www.linkedin.com/pulse/arth-aws-task-2-narayan-singh-chundawat/
+
+
