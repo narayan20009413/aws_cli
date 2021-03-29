@@ -1,6 +1,6 @@
 How to use AWS CLI to:-
-Create a key pair. 
-Create a security group. 
-Launch an instance using the above created key pair and security group.
-Create an EBS volume of 1 GB.
-attach the above created EBS volume to the instance. 
+1. Create a key pair. <br/>
+2. Create a security group. 
+3. Launch an instance using the above created key pair and security group.
+4. Create an EBS volume of 1 GB.
+5. Attach the above created EBS volume to the instance. 
