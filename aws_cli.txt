@@ -13,7 +13,7 @@ login in aws account by providing  access key and secret access key of your aws 
 
 2.Create a security group :- 
 
-> aws ec2 create-security-group --description  for_security  --group-name my_security_group
+> aws ec2 create-security-group --description  <for_security>  --group-name <my_security_group>
 
 3.Launch an instance using the above created key pair and security group:-
 
